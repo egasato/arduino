@@ -1,0 +1,8 @@
+# Ignoring PlatformIO generated files
+.piolibdeps
+.pioenvs
+cmake-build-debug
+CMakeListsPrivate.txt
+
+# Ignoring IntelliJ IDEA-based editor's files
+.idea
