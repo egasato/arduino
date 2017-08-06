@@ -1,8 +1,12 @@
 # Ignoring PlatformIO generated files
 .piolibdeps
 .pioenvs
+.travis.yml
 cmake-build-debug
 CMakeListsPrivate.txt
 
 # Ignoring IntelliJ IDEA-based editor's files
 .idea
+
+# Ignoring temporal files
+platformio.ini.old
