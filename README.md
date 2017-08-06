@@ -1,5 +1,5 @@
 ## 01 - Blink Project
-First Arduino program that does nothing more than a blink using the built-in LED
+First Arduino program that does nothing more than blinking using the built-in LED
 in the Arduino Uno board.
 ## Setup
 Here you can see the setup of the board and all its components.
@@ -8,5 +8,5 @@ Here you can see the setup of the board and all its components.
 #### Breaboard view
 ![Breaboard View][breadboard]
 
-[schematic]: Blink_schematic.svg
-[breadboard]: Blink_breadboard.svg
+[schematic]: https://cdn.rawgit.com/egasato/arduino/blink/Blink_schematic.svg
+[breadboard]: https://cdn.rawgit.com/egasato/arduino/blink/Blink_breadboard.svg
