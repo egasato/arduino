@@ -19,12 +19,9 @@ IDEs/boards run the following command.
 platformio init --ide <YOUR IDE> --board <YOUR BOARD>
 ```
 When you have your Arduino board connected run one of the patch scripts to
-automatically detect the port and update the platformio.ini file.
-```bash
-
-```
-To build and run the projects either use the GUI of your favorite IDE or the
-PlatformIO commands.
+automatically detect the port and update the platformio.ini file. To build and
+run the projects either use the GUI of your favorite IDE or the PlatformIO
+commands.
 ```bash
 platformio run --target upload
 ```
