@@ -8,11 +8,11 @@ The state can be toggled using a pressure sensor (a button, duh!) and once the t
 blinked the state resets back.
 ## Setup
 Here you can see the setup of the board and all its components.
-#### Schematic view
+### Schematic view
 For unlimited resolution and high details use the [SVG version][schematic-svg].
 
 ![Schematic View][schematic]
-#### Breaboard view
+### Breaboard view
 For unlimited resolution and high details use the [SVG version][breadboard-svg].
 
 ![Breaboard View][breadboard]
