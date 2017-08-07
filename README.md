@@ -1,11 +1,13 @@
 ## 02 - Spaceship Interface Project
 This projects consists in building the interface of a spaceship using a little
-bit of electronics, coding and papercraft. The interface is pretty simple, it has two different states:
+bit of electronics, coding and papercraft. The interface is pretty simple, it
+has two different states:
 * One LED (green) is turned on and the other two (red) turned off.
-* One LED (green) is turned off and the other two (red) blink alternately every 250 microseconds.
+* One LED (green) is turned off and the other two (red) blink alternately
+every 250 microseconds.
 
-The state can be toggled using a pressure sensor (a button, duh!) and once the two LEDs (red) have
-blinked the state resets back.
+The state can be toggled using a pressure sensor (a button, duh!) **but the
+state doesn't reset back automatically**.
 ## Setup
 Here you can see the setup of the board and all its components.
 ### Schematic view
