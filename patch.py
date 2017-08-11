@@ -45,7 +45,7 @@ if not port:
 # start the configuration parser, parse the file and update it
 config = ConfigParser.RawConfigParser()
 config.read("platformio.ini")
-config.set("env:uno", "target_upload", port)
+config.set("env:uno", "upload_port", port)
 
 # escribimos los cambios en el disco
 # write changes to disk
